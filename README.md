@@ -26,8 +26,8 @@ One of
 
 Load it, either as is (in the browser), as an AMD module, or as a CommonJS/Node.js module), then mix it in with the parent library (which must be explicitly injected):
 
-    _.mixin({deepExtend: underscoreIsDefined(_)});
+    _.mixin({isDefined: underscoreIsDefined(_)});
     
 Call it like this:
 
-    var myObj = _.isDefined(foo)
+    var result = _.isDefined(foo)
