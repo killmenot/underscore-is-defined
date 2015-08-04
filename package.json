@@ -1,0 +1,30 @@
+{
+    "name": "underscore-is-defined",
+    "description": "An isDefined shortcut for underscore",
+    "keywords": [
+        "underscore",
+        "lodash",
+        "isDefined"
+    ],
+    "author": {
+        "name": "Alexey Kucherenko",
+        "url": "https://github.com/killmenot"
+    },
+    "contributors": [
+        {
+            "name": "Andrey Shakhmin",
+            "url": "https://github.com/turbobabr"
+        }
+    ],
+    "homepage": "https://github.com/killmenot/underscore-is-defined",
+    "bugs": {
+        "url": "https://github.com/killmenot/underscore-is-defined/issues"
+    },
+    "license": "MIT",
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/killmenot/underscore-is-defined"
+    },
+    "main": "index"
+}

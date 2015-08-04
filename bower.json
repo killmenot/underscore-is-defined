@@ -1,0 +1,20 @@
+{
+  "name": "underscore-is-defined",
+  "version": "0.0.1",
+  "main": "index.js",
+  "description": "An isDefined method for underscore or lodash",
+  "keywords": [
+    "underscore",
+    "lodash",
+    "isDefined"
+  ],
+  "authors": [
+    "Alexey Kucherenko <alexei.kucherenko@gmail.com>"
+  ],
+  "ignore": [
+    ".gitignore",
+    "component.json",
+    "package.json",
+    "README.md"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "underscore-is-defined",
+  "version": "0.0.1",
+  "repo": "killmenot/underscoreIsDefined",
+  "description": "An isDefined method for underscore or lodash",
+  "keywords": [
+      "underscore",
+      "lodash",
+      "isDefined"
+    ],
+  "scripts": ["index.js"],
+  "license": "MIT"
+}
